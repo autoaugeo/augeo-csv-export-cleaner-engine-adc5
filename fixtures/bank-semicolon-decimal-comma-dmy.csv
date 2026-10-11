@@ -1,0 +1,28 @@
+Fecha;Concepto;Importe;Divisa;Saldo;Referencia
+01/03/2024;Transferencia recibida cliente 701;1.234,56;EUR;6.234,56;TR-0001
+02/03/2024;Recibo luz;-89,90;EUR;6.144,66;RC-0002
+04/03/2024;Compra tarjeta papeleria;-12,00;EUR;6.132,66;TJ-0003
+05/03/2024;"Alquiler local; marzo 2024";-1.500,00;EUR;4.632,66;RC-0004
+06/03/2024;Transferencia recibida cliente 704;450,00;EUR;5.082,66;TR-0005
+07/03/2024;Comision mantenimiento;-5,99;EUR;5.076,67;
+08/03/2024;Compra tarjeta, material de embalaje;-23,45;EUR;5.053,22;TJ-0007
+11/03/2024;Transferencia recibida cliente 709;2.000,00;EUR;7.053,22;TR-0008
+12/03/2024;Recibo telefono;-45,00;EUR;7.008,22;RC-0009
+13/03/2024;Compra tarjeta envios;-310,25;EUR;6.697,97;TJ-0010
+13/03/2024;Compra tarjeta envios;-310,25;EUR;6.697,97;TJ-0010
+14/03/2024;Retencion pendiente;pendiente;EUR;6.697,97;RT-0011
+15/03/2024;Transferencia recibida cliente 712;19,99;EUR;6.717,96;TR-0012
+18/03/2024;Recibo seguro;-64,30;EUR;6.653,66;RC-0013
+19/03/2024;Transferencia recibida cliente 714;120,00;EUR;6.773,66;TR-0014
+20/03/2024;Pago proveedor 88;-1.000;EUR;5.773,66;TR-0015
+21/03/2024;Transferencia recibida cliente 716;333,33;EUR;6.106,99;TR-0016
+22/03/2024;Compra tarjeta papeleria;-7,50;EUR;6.099,49;TJ-0017
+25/03/2024;Recibo agua;-99,00;EUR;6.000,49;RC-0018
+26/03/2024;Transferencia recibida cliente 719;640,00;EUR;6.640,49;TR-0019
+27/03/2024;Compra tarjeta envios;-18,75;EUR;6.621,74;TJ-0020
+28/03/2024;Transferencia recibida cliente 721;55,55;EUR;6.677,29;TR-0021
+28/03/2024;Recibo internet;-200,00;EUR;6.477,29;RC-0022
+29/03/2024;Transferencia recibida cliente 723;1.010,10;EUR;7.487,39;TR-0023
+30/03/2024;Compra tarjeta papeleria;-31,40;EUR;7.455,99;TJ-0024
+31/03/2024;Transferencia recibida cliente 725;15,00;EUR;7.470,99;TR-0025
+Saldo final;;;;7.470,99

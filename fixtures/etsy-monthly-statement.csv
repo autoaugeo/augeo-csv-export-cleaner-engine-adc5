@@ -1,0 +1,10 @@
+Date,Type,Title,Info,Currency,Amount,Fees & Taxes,Net
+"March 3, 2024",Sale,Payment for Order #3100000004,Order #3100000004,USD,$30.48,--,$30.48
+"March 3, 2024",Fee,Transaction fee: Linen tote,Order #3100000004,USD,--,-$1.56,-$1.56
+"March 3, 2024",Fee,Processing fee,Order #3100000004,USD,--,-$1.16,-$1.16
+"March 5, 2024",Marketing,Etsy Ads,,USD,--,-$4.00,-$4.00
+"March 8, 2024",Tax,Sales tax paid by buyer,Order #3100000004,USD,--,-$1.98,-$1.98
+"March 11, 2024",Deposit,$23.76 sent to your bank account,,USD,--,--,--
+"March 12, 2024",Fee,Listing fee,Listing #1600000001,USD,--,-$0.20,-$0.20
+"March 14, 2024",Refund,Refund for Order #3100000005,Order #3100000005,USD,-$18.00,$0.59,-$17.41
+"March 20, 2024",Shipping,"Shipping label, USPS",Label #2000000001,USD,--,-$4.15,-$4.15
